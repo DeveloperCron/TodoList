@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_afacad_normal.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/afacad_normal.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_googlesans_medium.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/googlesans_medium.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_close_24_px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/close_24_px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_googlesans_regular.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/googlesans_regular.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.todolist.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.todolist.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_delete_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/delete_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_calendar_month_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/calendar_month_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_open_sans_semibold.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/open_sans_semibold.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/layout_card.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/layout/card.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_schedule_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/schedule_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_afacad_italic.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/afacad_italic.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_open_sans.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/open_sans.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_edit_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/edit_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_menu_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/menu_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/drawable_add_task_24px.xml.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/drawable/add_task_24px.xml"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_roboto_medium.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/roboto_medium.ttf"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-merged_res-33:/font_googlesans_bold.ttf.flat",
+        "source": "/Users/liorshaposhnikov/.gradle/daemon/8.2/com.example.todolist.app-main-35:/font/googlesans_bold.ttf"
+    }
+]

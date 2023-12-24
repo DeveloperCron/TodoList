@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeOverlay.App.Button" parent="ThemeOverlay.Material3.Button">
+        <item name="android:radius">16dp</item>
+    </style>
+
+    <style name="MyIconButtonStyle" parent="@style/Widget.Material3.Button.IconButton">
+        <item name="android:iconTint">#000</item>
+        <item name="android:drawableTint">#000</item>
+    </style>
+</resources>

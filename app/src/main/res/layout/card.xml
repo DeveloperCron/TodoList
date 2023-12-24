@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="80dp">
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginStart="20dp"
+            android:gravity="center"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/tvDay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="15"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:id="@+id/tvMonth"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="JAN"
+                android:textSize="14dp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal"
+                android:textColor="#868686"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:layout_marginStart="20dp"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/tvTaskName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Do shopping"
+                android:textStyle="bold"
+                android:textSize="20dp"
+                />
+
+
+            <TextView
+                android:id="@+id/tvTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="10:00-10:30 "
+                android:textStyle="bold"
+                android:textSize="16dp"
+                android:textColor="#909090"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+</FrameLayout>
